@@ -1,0 +1,25 @@
+[2022-10-06T13:36:15.066Z] Log level: Info
+[2022-10-06T13:36:15.071Z] [info] Validating found git in: git
+[2022-10-06T13:36:15.089Z] [info] Using git 2.38.0 from git
+[2022-10-06T13:36:15.105Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-06T13:36:15.240Z] > git rev-parse --git-dir --git-common-dir [123ms]
+[2022-10-06T13:36:15.249Z] [info] Open repository: /home/ana/projects/proposal-front
+[2022-10-06T13:36:15.341Z] > git status -z -uall [85ms]
+[2022-10-06T13:36:15.399Z] > git symbolic-ref --short HEAD [46ms]
+[2022-10-06T13:36:15.405Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-10-06T13:36:15.421Z] > git remote --verbose [2ms]
+[2022-10-06T13:36:15.421Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-10-06T13:36:15.457Z] > git config --get commit.template [17ms]
+[2022-10-06T13:36:15.473Z] > git status -z -uall [7ms]
+[2022-10-06T13:36:15.483Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-06T13:36:15.488Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-10-06T13:36:15.512Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-10-06T13:36:15.512Z] > git remote --verbose [14ms]
+[2022-10-06T13:36:15.519Z] > git config --get commit.template [0ms]
+[2022-10-06T13:37:04.486Z] > git check-ignore -v -z --stdin [2ms]
+[2022-10-06T13:37:06.275Z] > git show --textconv :src/app/components/login/login-form/login-form.component.html [29ms]
+[2022-10-06T13:37:06.276Z] > git ls-files --stage -- /home/ana/projects/proposal-front/src/app/components/login/login-form/login-form.component.html [21ms]
+[2022-10-06T13:37:06.287Z] > git cat-file -s fc17d113be91a65545ce159510d89276b63fac05 [1ms]
+[2022-10-06T13:37:11.852Z] > git show --textconv :src/app/components/login/login-form/login-form.component.ts [22ms]
+[2022-10-06T13:37:11.852Z] > git ls-files --stage -- /home/ana/projects/proposal-front/src/app/components/login/login-form/login-form.component.ts [16ms]
+[2022-10-06T13:37:11.861Z] > git cat-file -s 6b42dde6c87aade5c01620ef590f14babdff6a06 [4ms]

@@ -1,0 +1,105 @@
+[2022-10-05 21:57:28.358] [sharedprocess] [info] Starting worker process with pid 24637 (type: fileWatcher, window: 1).
+[2022-10-05 21:58:18.464] [sharedprocess] [info] Getting Manifest... mhutchie.git-graph
+[2022-10-05 21:58:18.563] [sharedprocess] [info] Getting Manifest... naumovs.color-highlight
+[2022-10-05 21:58:18.876] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-10-05 21:58:18.896] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-10-05 21:58:18.898] [sharedprocess] [info] Getting Manifest... jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:18.901] [sharedprocess] [info] Getting Manifest... sainnhe.gruvbox-material
+[2022-10-05 21:58:18.903] [sharedprocess] [info] Getting Manifest... vue.volar
+[2022-10-05 21:58:18.904] [sharedprocess] [info] Getting Manifest... jdinhlife.gruvbox
+[2022-10-05 21:58:18.906] [sharedprocess] [info] Getting Manifest... wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:18.909] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-10-05 21:58:18.931] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-10-05 21:58:18.978] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-10-05 21:58:19.134] [sharedprocess] [info] Installing extension: github.copilot
+[2022-10-05 21:58:19.134] [sharedprocess] [info] Installing the extension without checking dependencies and pack github.copilot
+[2022-10-05 21:58:19.187] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-10-05 21:58:19.187] [sharedprocess] [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+[2022-10-05 21:58:19.276] [sharedprocess] [info] Getting Manifest... dart-code.dart-code
+[2022-10-05 21:58:19.323] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2022-10-05 21:58:19.324] [sharedprocess] [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+[2022-10-05 21:58:19.330] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2022-10-05 21:58:19.330] [sharedprocess] [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+[2022-10-05 21:58:19.520] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2022-10-05 21:58:19.521] [sharedprocess] [info] Installing the extension without checking dependencies and pack dart-code.dart-code
+[2022-10-05 21:58:19.608] [sharedprocess] [info] Installing extension: jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:19.609] [sharedprocess] [info] Installing the extension without checking dependencies and pack jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:19.647] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-10-05 21:58:19.647] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+[2022-10-05 21:58:19.648] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2022-10-05 21:58:19.648] [sharedprocess] [info] Installing the extension without checking dependencies and pack jdinhlife.gruvbox
+[2022-10-05 21:58:19.653] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2022-10-05 21:58:19.653] [sharedprocess] [info] Installing the extension without checking dependencies and pack sainnhe.gruvbox-material
+[2022-10-05 21:58:19.655] [sharedprocess] [info] Installing extension: vue.volar
+[2022-10-05 21:58:19.655] [sharedprocess] [info] Installing the extension without checking dependencies and pack vue.volar
+[2022-10-05 21:58:19.659] [sharedprocess] [info] Installing extension: wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:19.659] [sharedprocess] [info] Installing the extension without checking dependencies and pack wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:19.661] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-10-05 21:58:19.661] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-10-05 21:58:19.701] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-10-05 21:58:19.701] [sharedprocess] [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+[2022-10-05 21:58:20.568] [sharedprocess] [info] Downloaded extension: github.copilot /home/ana/.config/Code/CachedExtensionVSIXs/github.copilot-1.50.6974
+[2022-10-05 21:58:20.643] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.065871fb-0a81-4736-8daa-e4c6f10e4829: github.copilot
+[2022-10-05 21:58:20.646] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/github.copilot-1.50.6974
+[2022-10-05 21:58:20.648] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-10-05 21:58:20.650] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-10-05 21:58:20.707] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/ana/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.9.0
+[2022-10-05 21:58:20.853] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.65d2b3fd-520d-4a9f-a17c-aee511a6b7ee: esbenp.prettier-vscode
+[2022-10-05 21:58:20.855] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/esbenp.prettier-vscode-9.9.0
+[2022-10-05 21:58:20.857] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-10-05 21:58:20.858] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-10-05 21:58:20.977] [sharedprocess] [info] Downloaded extension: jonathanharty.gruvbox-material-icon-theme /home/ana/.config/Code/CachedExtensionVSIXs/jonathanharty.gruvbox-material-icon-theme-1.1.5
+[2022-10-05 21:58:21.326] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /home/ana/.config/Code/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-10-05 21:58:21.362] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/ana/.config/Code/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-10-05 21:58:21.404] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.ac9e02a1-b50d-4d83-8383-82d24bd9e80a: mhutchie.git-graph
+[2022-10-05 21:58:21.410] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/mhutchie.git-graph-1.30.0
+[2022-10-05 21:58:21.410] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.4e564fb7-0ccc-4e44-834e-a25545c426a4: jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:21.415] [sharedprocess] [info] Extracting completed. mhutchie.git-graph
+[2022-10-05 21:58:21.416] [sharedprocess] [info] Extension installed successfully: mhutchie.git-graph
+[2022-10-05 21:58:21.418] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5
+[2022-10-05 21:58:21.422] [sharedprocess] [info] Extracting completed. jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:21.423] [sharedprocess] [info] Extension installed successfully: jonathanharty.gruvbox-material-icon-theme
+[2022-10-05 21:58:21.769] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/ana/.config/Code/CachedExtensionVSIXs/dart-code.dart-code-3.50.0
+[2022-10-05 21:58:21.787] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.f403c941-99a8-4fc0-a0cb-c8b2d74dfe87: naumovs.color-highlight
+[2022-10-05 21:58:21.789] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/naumovs.color-highlight-2.5.0
+[2022-10-05 21:58:21.791] [sharedprocess] [info] Extracting completed. naumovs.color-highlight
+[2022-10-05 21:58:21.791] [sharedprocess] [info] Extension installed successfully: naumovs.color-highlight
+[2022-10-05 21:58:21.845] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/ana/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.1
+[2022-10-05 21:58:21.907] [sharedprocess] [info] Downloaded extension: vue.volar /home/ana/.config/Code/CachedExtensionVSIXs/vue.volar-0.40.13-linux-x64
+[2022-10-05 21:58:21.997] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.8eb987e4-d7fd-4475-805d-a13c2d9609c7: ms-azuretools.vscode-docker
+[2022-10-05 21:58:22.001] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-10-05 21:58:22.004] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-10-05 21:58:22.006] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-10-05 21:58:22.039] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.90f8b603-eac9-4853-a981-02a1a7458cf7: vue.volar
+[2022-10-05 21:58:22.042] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/vue.volar-0.40.13-linux-x64
+[2022-10-05 21:58:22.044] [sharedprocess] [info] Extracting completed. vue.volar
+[2022-10-05 21:58:22.044] [sharedprocess] [info] Extension installed successfully: vue.volar
+[2022-10-05 21:58:22.089] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox /home/ana/.config/Code/CachedExtensionVSIXs/jdinhlife.gruvbox-1.8.0
+[2022-10-05 21:58:22.127] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.ae76555a-1502-425b-b947-b5a30f77b689: jdinhlife.gruvbox
+[2022-10-05 21:58:22.129] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/jdinhlife.gruvbox-1.8.0
+[2022-10-05 21:58:22.130] [sharedprocess] [info] Extracting completed. jdinhlife.gruvbox
+[2022-10-05 21:58:22.131] [sharedprocess] [info] Extension installed successfully: jdinhlife.gruvbox
+[2022-10-05 21:58:22.177] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/ana/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-12.2.2
+[2022-10-05 21:58:22.377] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material /home/ana/.config/Code/CachedExtensionVSIXs/sainnhe.gruvbox-material-6.5.1
+[2022-10-05 21:58:22.379] [sharedprocess] [info] Downloaded extension: wheredoesyourmindgo.gruvbox-concoctis /home/ana/.config/Code/CachedExtensionVSIXs/wheredoesyourmindgo.gruvbox-concoctis-10.30.27
+[2022-10-05 21:58:22.390] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/ana/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2022-10-05 21:58:22.504] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.bc86b477-6bc7-4083-bf63-e010eb161f7a: sainnhe.gruvbox-material
+[2022-10-05 21:58:22.507] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/sainnhe.gruvbox-material-6.5.1
+[2022-10-05 21:58:22.509] [sharedprocess] [info] Extracting completed. sainnhe.gruvbox-material
+[2022-10-05 21:58:22.510] [sharedprocess] [info] Extension installed successfully: sainnhe.gruvbox-material
+[2022-10-05 21:58:22.597] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.c8711e59-5c8d-413f-8581-2494b28c1c6e: wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:22.599] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/wheredoesyourmindgo.gruvbox-concoctis-10.30.27
+[2022-10-05 21:58:22.601] [sharedprocess] [info] Extracting completed. wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:22.601] [sharedprocess] [info] Extension installed successfully: wheredoesyourmindgo.gruvbox-concoctis
+[2022-10-05 21:58:22.935] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.15596ebc-a647-4325-b3a3-3221a090d265: eamodio.gitlens
+[2022-10-05 21:58:22.944] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/eamodio.gitlens-12.2.2
+[2022-10-05 21:58:22.948] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-10-05 21:58:22.951] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-10-05 21:58:24.920] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.1dd2cb3b-616b-4ade-ae85-c7283bd4647b: ritwickdey.liveserver
+[2022-10-05 21:58:24.960] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/ritwickdey.liveserver-5.7.9
+[2022-10-05 21:58:24.961] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-10-05 21:58:24.962] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-10-05 21:58:29.585] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.b570f555-0121-47ba-a387-ca0cbc2b5c72: dart-code.dart-code
+[2022-10-05 21:58:29.628] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/dart-code.dart-code-3.50.0
+[2022-10-05 21:58:29.631] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2022-10-05 21:58:29.635] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code

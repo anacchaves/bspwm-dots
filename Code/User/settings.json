@@ -1,0 +1,65 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "terminal.integrated.cursorStyle": "underline",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.panel.defaultLocation": "right",
+  "workbench.editor.autoLockGroups": {
+    "vscode.markdown.preview.editor": true
+  },
+  "workbench.editor.wrapTabs": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "editor.parameterHints.cycle": true,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": false,
+  "explorer.confirmDelete": false,
+  "files.associations": {},
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "editor.wordWrap": "on",
+  "workbench.colorCustomizations": {
+  
+  },
+  "bladeFormatter.format.sortTailwindcssClasses": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "switch:command",
+    "stash-apply:command"
+  ],
+  "window.titleBarStyle": "custom",
+  "dart.flutterSdkPath": "/home/anachaves/flutter",
+  "workbench.colorTheme": "gruvboxConcoctis dark hard",
+  "[html]": {
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": [
+      "document"
+    ]
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.iconTheme": "gruvbox-material-icon-theme",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true
+}

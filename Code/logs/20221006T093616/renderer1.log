@@ -1,0 +1,20 @@
+[2022-10-06 09:36:19.148] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 09:36:19.148] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)

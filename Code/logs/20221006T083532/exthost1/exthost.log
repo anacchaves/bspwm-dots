@@ -1,0 +1,27 @@
+[2022-10-06 08:35:35.062] [exthost] [info] Extension host with pid 3306 started
+[2022-10-06 08:35:35.062] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/93ce8e07d0ec9f6635aa81d4b9df5292.
+[2022-10-06 08:35:35.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-06 08:35:35.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.183] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.196] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.205] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-06 08:35:35.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 08:35:35.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-06 08:35:35.402] [exthost] [info] Eager extensions activated
+[2022-10-06 08:35:35.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 08:35:35.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 08:35:35.418] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 08:35:35.447] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 08:35:38.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-10-06 08:35:38.936] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-10-06 08:35:38.974] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 08:35:38.986] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: false, activationEvent: '*'
+[2022-10-06 08:35:53.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-10-06 08:35:54.995] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 08:35:57.708] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 08:56:44.742] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 09:22:45.758] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-06 09:22:45.779] [exthost] [info] Extension host with pid 3306 exiting with code 0

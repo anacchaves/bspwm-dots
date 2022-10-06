@@ -1,0 +1,14 @@
+[2022-10-06 10:08:43.314] [sharedprocess] [info] Starting worker process with pid 2456 (type: fileWatcher, window: 1).
+[2022-10-06 10:34:56.295] [sharedprocess] [info] Uninstalling extension: dart-code.dart-code@3.50.0
+[2022-10-06 10:34:56.454] [sharedprocess] [info] Detected extension removed from another source dart-code.dart-code
+[2022-10-06 10:34:56.741] [sharedprocess] [info] Successfully uninstalled extension: dart-code.dart-code@3.50.0
+[2022-10-06 10:35:08.036] [sharedprocess] [info] Uninstalling extension: jdinhlife.gruvbox@1.8.0
+[2022-10-06 10:35:08.520] [sharedprocess] [info] Successfully uninstalled extension: jdinhlife.gruvbox@1.8.0
+[2022-10-06 10:36:02.346] [sharedprocess] [info] Uninstalling extension: sainnhe.gruvbox-material@6.5.1
+[2022-10-06 10:36:03.074] [sharedprocess] [info] Successfully uninstalled extension: sainnhe.gruvbox-material@6.5.1
+[2022-10-06 10:36:12.955] [sharedprocess] [info] Worker process with pid 2456 terminated normally (type: fileWatcher, window: 1).
+[2022-10-06 10:36:13.742] [sharedprocess] [info] Starting worker process with pid 4459 (type: fileWatcher, window: 1).
+[2022-10-06 10:37:43.273] [sharedprocess] [info] Uninstalling extension: vue.volar@0.40.13
+[2022-10-06 10:37:43.660] [sharedprocess] [info] Successfully uninstalled extension: vue.volar@0.40.13
+[2022-10-06 10:37:46.999] [sharedprocess] [info] Worker process with pid 4459 terminated normally (type: fileWatcher, window: 1).
+[2022-10-06 10:37:47.766] [sharedprocess] [info] Starting worker process with pid 4740 (type: fileWatcher, window: 1).

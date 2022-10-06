@@ -1,0 +1,75 @@
+[2022-10-05 21:57:27.824] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-10-05 21:57:27.824] [settingssync] [info] Auto Sync is disabled.
+[2022-10-05 21:58:14.674] [settingssync] [info] Did reset the local sync state.
+[2022-10-05 21:58:14.687] [settingssync] [info] Settings: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:15.019] [settingssync] [info] Settings: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:15.413] [settingssync] [info] Keybindings: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:15.758] [settingssync] [info] Snippets: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:16.080] [settingssync] [info] Tasks: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:16.439] [settingssync] [info] GlobalState: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:17.040] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:17.627] [settingssync] [info] Settings: Updated local settings
+[2022-10-05 21:58:17.632] [settingssync] [info] Settings: Updated last synchronized settings
+[2022-10-05 21:58:17.634] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-05 21:58:17.639] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2022-10-05 21:58:17.641] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-05 21:58:17.649] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2022-10-05 21:58:17.655] [settingssync] [info] Tasks: Updated local tasks
+[2022-10-05 21:58:17.661] [settingssync] [info] Tasks: Updated last synchronized tasks
+[2022-10-05 21:58:17.676] [settingssync] [info] GlobalState: Updated global state ["workbench.view.extensions.state.hidden","colorThemeData","ces/remindLaterDate","workbench.view.extension.dockerView.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.panel.alignment","extensionsAssistant/languagePackSuggestionIgnore","ces/skipSurvey","extensionsAssistant/fileExtensionsSuggestionIgnore","commandPalette.mru.cache","commandPalette.mru.counter","cpp.1.sessionCount","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","terminal.integrated.showTerminalConfigPrompt","typescript.1.editedCount","typescript.1.editedDate","expandSuggestionDocs","javascript.1.editedCount","javascript.1.editedDate","nps/isCandidate","nps/skipVersion","extensionTips/promptedExecutableTips","workbench.view.remote.state.hidden","workbench.welcomePage.hiddenCategories","tabs-list-width-vertical","workbench.view.sync.state.hidden","remote.explorerType","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensPanel.state.hidden","typescript.1.isCandidate","typescript.1.skipVersion","tabs-list-width-horizontal","workbench.view.extension.arkademyWindow.state.hidden","javascript.1.isCandidate","javascript.1.skipVersion","refactorPreview.hidden","github-anacchaves","workbench.view.extension.test.state.hidden","workbench.view.extension.flutter.state.hidden","snippets.usageTimestamps","memento/notebookGettingStarted2","fileBasedRecommendations/promptedRecommendations","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","nps/sessionCount","workbench.statusbar.hidden","workbench.panel.pinnedPanels","memento/gettingStartedService"]
+[2022-10-05 21:58:17.676] [settingssync] [info] GlobalState: Updated local ui state
+[2022-10-05 21:58:17.681] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-10-05 21:58:18.874] [settingssync] [info] Extensions: Disabled extension github.copilot 1.50.6974
+[2022-10-05 21:58:18.927] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:20.650] [settingssync] [info] Extensions: Installed extension. github.copilot 1.50.6974
+[2022-10-05 21:58:20.705] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:20.858] [settingssync] [info] Extensions: Installed extension. esbenp.prettier-vscode 9.9.0
+[2022-10-05 21:58:20.924] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:21.416] [settingssync] [info] Extensions: Installed extension. mhutchie.git-graph 1.30.0
+[2022-10-05 21:58:21.423] [settingssync] [info] Extensions: Installed extension. jonathanharty.gruvbox-material-icon-theme 1.1.5
+[2022-10-05 21:58:21.475] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:21.792] [settingssync] [info] Extensions: Installed extension. naumovs.color-highlight 2.5.0
+[2022-10-05 21:58:21.850] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:22.007] [settingssync] [info] Extensions: Installed extension. ms-azuretools.vscode-docker 1.22.1
+[2022-10-05 21:58:22.045] [settingssync] [info] Extensions: Installed extension. vue.volar 0.40.13
+[2022-10-05 21:58:22.096] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:22.131] [settingssync] [info] Extensions: Installed extension. jdinhlife.gruvbox 1.8.0
+[2022-10-05 21:58:22.183] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:22.510] [settingssync] [info] Extensions: Installed extension. sainnhe.gruvbox-material 6.5.1
+[2022-10-05 21:58:22.562] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:22.601] [settingssync] [info] Extensions: Installed extension. wheredoesyourmindgo.gruvbox-concoctis 10.30.27
+[2022-10-05 21:58:22.654] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:22.951] [settingssync] [info] Extensions: Installed extension. eamodio.gitlens 12.2.2
+[2022-10-05 21:58:23.002] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:24.562] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:24.962] [settingssync] [info] Extensions: Installed extension. ritwickdey.liveserver 5.7.9
+[2022-10-05 21:58:25.014] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:25.322] [settingssync] [info] Extensions: Not synced yet. Last sync resource does not exist.
+[2022-10-05 21:58:29.635] [settingssync] [info] Extensions: Installed extension. dart-code.dart-code 3.50.0
+[2022-10-05 21:58:29.642] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-10-05 21:58:29.773] [settingssync] [info] Auto Sync: Started
+[2022-10-05 21:58:29.774] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-05 21:58:30.575] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-05 21:58:30.582] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-05 21:58:30.591] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-05 21:58:30.595] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-05 21:58:31.560] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-10-05 21:58:31.566] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-10-05 21:58:31.634] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-05 21:58:31.643] [settingssync] [info] Sync done. Took 1104ms
+[2022-10-05 21:58:32.238] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-10-05 21:58:32.632] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-05 21:58:32.636] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-05 21:58:32.642] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-05 21:58:32.648] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-05 21:58:32.660] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-10-05 21:58:32.739] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-05 21:58:32.741] [settingssync] [info] Sync done. Took 121ms
+[2022-10-05 21:58:57.625] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-10-05 21:58:58.100] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-05 21:58:58.105] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-05 21:58:58.109] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-05 21:58:58.111] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-05 21:58:58.117] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-10-05 21:58:58.192] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-05 21:58:58.194] [settingssync] [info] Sync done. Took 113ms

@@ -1,0 +1,82 @@
+[2022-10-06 10:08:43.147] [exthost] [info] Extension host with pid 2420 started
+[2022-10-06 10:08:43.147] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/bd439f20715cb928b7f707f3ee8cb5e5.
+[2022-10-06 10:08:43.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-06 10:08:43.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 10:08:43.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.328] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.345] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.368] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.378] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.395] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-06 10:08:43.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 10:08:43.622] [exthost] [info] Eager extensions activated
+[2022-10-06 10:08:43.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-06 10:08:43.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:08:43.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:08:43.666] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:08:43.717] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:08:43.785] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:15:31.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-06 10:15:31.399] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-06 10:15:35.227] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 10:15:35.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-10-06 10:15:36.986] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 10:15:37.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-10-06 10:34:54.882] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 10:35:16.456] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2022-10-06 10:35:16.656] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2022-10-06 10:35:18.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-10-06 10:36:12.926] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-06 10:36:12.986] [exthost] [info] Extension host with pid 2420 exiting with code 0
+[2022-10-06 10:36:14.829] [exthost] [info] Extension host with pid 4458 started
+[2022-10-06 10:36:14.830] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/bd439f20715cb928b7f707f3ee8cb5e5.
+[2022-10-06 10:36:14.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-06 10:36:14.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 10:36:14.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.923] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.931] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.941] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.950] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: true, activationEvent: '*'
+[2022-10-06 10:36:14.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-06 10:36:15.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 10:36:15.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 10:36:15.103] [exthost] [info] Eager extensions activated
+[2022-10-06 10:36:15.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-06 10:36:15.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:36:15.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:36:15.138] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:36:15.168] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:36:15.236] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:37:05.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-06 10:37:05.926] [exthost] [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-06 10:37:11.334] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 10:37:11.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-10-06 10:37:41.930] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-06 10:37:46.976] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-06 10:37:47.025] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:217:20)
+[2022-10-06 10:37:47.028] [exthost] [info] Extension host with pid 4458 exiting with code 0
+[2022-10-06 10:37:48.848] [exthost] [info] Extension host with pid 4739 started
+[2022-10-06 10:37:48.848] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/bd439f20715cb928b7f707f3ee8cb5e5.
+[2022-10-06 10:37:48.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-06 10:37:48.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 10:37:48.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 10:37:48.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 10:37:48.961] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+[2022-10-06 10:37:48.968] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-10-06 10:37:48.979] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-10-06 10:37:48.988] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: true, activationEvent: '*'
+[2022-10-06 10:37:49.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-06 10:37:49.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 10:37:49.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 10:37:49.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-06 10:37:49.152] [exthost] [info] Eager extensions activated
+[2022-10-06 10:37:49.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:37:49.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:37:49.169] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:37:49.197] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 10:37:49.264] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

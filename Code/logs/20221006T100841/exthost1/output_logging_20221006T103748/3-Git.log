@@ -1,0 +1,19 @@
+[2022-10-06T13:37:49.098Z] Log level: Info
+[2022-10-06T13:37:49.101Z] [info] Validating found git in: git
+[2022-10-06T13:37:49.122Z] [info] Using git 2.38.0 from git
+[2022-10-06T13:37:49.152Z] > git rev-parse --show-toplevel [19ms]
+[2022-10-06T13:37:49.274Z] > git rev-parse --git-dir --git-common-dir [114ms]
+[2022-10-06T13:37:49.279Z] [info] Open repository: /home/ana/projects/proposal-front
+[2022-10-06T13:37:49.290Z] > git status -z -uall [5ms]
+[2022-10-06T13:37:49.299Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-06T13:37:49.310Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-10-06T13:37:49.413Z] > git remote --verbose [89ms]
+[2022-10-06T13:37:49.414Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [97ms]
+[2022-10-06T13:37:49.467Z] > git config --get commit.template [32ms]
+[2022-10-06T13:37:49.480Z] > git status -z -uall [5ms]
+[2022-10-06T13:37:49.486Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-06T13:37:49.518Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+[2022-10-06T13:37:49.531Z] > git remote --verbose [1ms]
+[2022-10-06T13:37:49.531Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-10-06T13:37:49.548Z] > git config --get commit.template [2ms]
+[2022-10-06T13:37:52.798Z] > git check-ignore -v -z --stdin [2ms]

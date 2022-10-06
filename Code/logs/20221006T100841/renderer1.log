@@ -1,0 +1,61 @@
+[2022-10-06 10:08:43.476] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 10:08:43.477] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 10:16:30.536] [renderer1] [warning] [File Watcher (parcel)] started ignoring events due to too many file change events at once (incoming: 50564, most recent change: /home/ana/projects/proposal-front/node_modules/.bin). Use 'files.watcherExclude' setting to exclude folders with lots of changing files (e.g. compilation output).
+[2022-10-06 10:36:15.005] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 10:36:15.006] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 10:37:49.043] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-06 10:37:49.044] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)

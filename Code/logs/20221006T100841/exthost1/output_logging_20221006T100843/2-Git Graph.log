@@ -1,0 +1,9 @@
+[2022-10-06 10:08:43.454] Starting Git Graph ...
+[2022-10-06 10:08:43.474] Using git (version: 2.38.0)
+[2022-10-06 10:08:43.486] Started Git Graph - Ready to use!
+[2022-10-06 10:08:43.486] Searching workspace for new repos ...
+[2022-10-06 10:08:43.491] > git rev-parse --show-toplevel
+[2022-10-06 10:08:43.521] Added new repo: /home/ana/projects/proposal-front
+[2022-10-06 10:08:43.524] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-10-06 10:08:43.524] Completed searching workspace for new repos
+[2022-10-06 10:08:43.525] Showing "Git Graph" Status Bar Item

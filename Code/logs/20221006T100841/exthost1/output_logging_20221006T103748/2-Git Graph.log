@@ -1,0 +1,19 @@
+[2022-10-06 10:37:49.025] Starting Git Graph ...
+[2022-10-06 10:37:49.049] Using git (version: 2.38.0)
+[2022-10-06 10:37:49.059] > git rev-parse --show-toplevel
+[2022-10-06 10:37:49.060] Showing "Git Graph" Status Bar Item
+[2022-10-06 10:37:49.060] Started Git Graph - Ready to use!
+[2022-10-06 10:37:49.092] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-10-06 10:37:49.093] Searching workspace for new repos ...
+[2022-10-06 10:37:49.093] Completed searching workspace for new repos
+[2022-10-06 10:38:04.485] Created Git Graph View
+[2022-10-06 10:38:04.711] > git branch -a --no-color
+[2022-10-06 10:38:04.717] > git remote
+[2022-10-06 10:38:04.723] > git reflog --format=... refs/stash --
+[2022-10-06 10:38:04.725] Started watching repo: /home/ana/projects/proposal-front
+[2022-10-06 10:38:04.740] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2022-10-06 10:38:04.745] > git show-ref -d --head
+[2022-10-06 10:38:04.755] > git status --untracked-files=all --porcelain
+[2022-10-06 10:38:04.786] > git --no-pager config --list -z --includes
+[2022-10-06 10:38:04.793] > git --no-pager config --list -z --includes --local
+[2022-10-06 10:38:04.798] > git --no-pager config --list -z --includes --global

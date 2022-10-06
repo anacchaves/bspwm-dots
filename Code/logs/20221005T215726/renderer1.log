@@ -1,0 +1,22 @@
+[2022-10-05 21:58:13.595] [renderer1] [info] Settings Sync: Updated current session f3a19e01-5138-49eb-b1c9-7604c91b2f88
+[2022-10-05 21:58:21.757] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-05 21:58:21.757] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-05 21:58:31.682] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.settingsSync)
